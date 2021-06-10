@@ -1,6 +1,8 @@
+
 # Cyclistics
 Analysis for a bike share company to attract more subscribed riders
 
+## R was used for this analysis
 
 # Cyclistic:
 A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself

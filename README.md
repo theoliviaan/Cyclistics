@@ -26,3 +26,7 @@ have chosen Cyclistic for their mobility needs
 
 # Business Task
 The company wants to improve her earnings by making their casual riders convert to an annual member. First we have to  understand how annual members and casual riders differ, why casual riders would buy a membership. The data used for analysis was the previous 12 months of Cyclistics historical trip data to analyze and identify trends 
+
+
+# Conclusions and Recommendations
+Casual riders are rides more during the weekends using electric bikes while Annual riders use this service as a commute or public transport during the week prefering classic bikes. Now that it has been known how these users differ, it would be recommended to target their marketing strategies to the weekends or electric bikes in order to convert casual riders
